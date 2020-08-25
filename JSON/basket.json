@@ -5,14 +5,14 @@
         {
             "productName":"ORANGE PEOPLE T-SHIRT",
             "productPrice":67,
-            "productImg":"https://github.com/Rutard-Hash/static/blob/master/MyLendingImgs/1821.png",
+            "productImg":"https://raw.githubusercontent.com/Rutard-Hash/static/master/MyLendingImgs/1821.png",
             "productId":"prod_3",
             "amount": 2
         },
         {
             "productName":"PUMKIN PEOPLE T-SHIRT",
             "productPrice":69,
-            "productImg":"https://github.com/Rutard-Hash/static/blob/master/MyLendingImgs/1821.png",
+            "productImg":"https://raw.githubusercontent.com/Rutard-Hash/static/master/MyLendingImgs/1821.png",
             "productId":"prod_4",
             "amount": 1
         }
